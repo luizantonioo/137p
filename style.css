@@ -1,0 +1,38 @@
+body{
+background-position: center;
+background-size: cover;
+background-color: red;
+}
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color:red ;
+padding: 200px;
+}
+#status{
+font-size: 18px;
+}
+canvas{
+    box-shadow: 10px 10px 10px red;
+    border-radius: 10px;
+    border-color: darkred;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
